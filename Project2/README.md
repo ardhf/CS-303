@@ -9,8 +9,4 @@ These screenshots are from the terminal is VS Code and each function is tested a
 
 To run this code, you must have the Professional.cpp file, Nonprofessional.cpp file, and the Employee.h file in the same folder and the files all must be named as outlined here. Then you can open the folder in an IDE such as VS Code and run the professional.cpp file, or nonprofessional.cpp file. The program will then run and prompt the user for input which can be typed in the terminal, and additional instructions for each of the functions will also be presented to the user when the option is chosen.
 
-![alt text](https://github.com/ardhf/Assignment2/blob/main/s1.png?raw=true)
-![alt text](https://github.com/ardhf/Assignment2/blob/main/s2.png?raw=true)
-![alt text](https://github.com/ardhf/Assignment2/blob/main/s3.png?raw=true)
-![alt text](https://github.com/ardhf/Assignment2/blob/main/s4.png?raw=true)
-![alt text](https://github.com/ardhf/Assignment2/blob/main/s5.png?raw=true)
+![alt text](https://github.com/ardhf/Assignment2/Project2/blob/main/s6.png?raw=true)
