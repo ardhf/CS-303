@@ -1,21 +1,6 @@
 # Assignment2
 
 Program1 will create a linked list and give the user 12 options during runtime
-1) Push front
-2) Push back
-3) Print list
-4) Pop front
-5) Pop back
-6) Front
-7) Back
-8) Empty
-9) Insert
-10) Remove
-11) Find
-0) Exit
+Program2 will create two different types of employees and calculate their money, vacation days, and health care contributions based on the rules of each job.
 
-The user can type directly into the terminal any one of these integers and the corresponding function will be called
-
-These screenshots are from the terminal is VS Code and each function is tested and screenshots are posted for the functions.
-
-To run this code, you must have the main.cpp file, and the LinkedList.h file in the same folder and the files all must be named as outlined here. Then you can open the folder in an IDE such as VS Code and run the main.cpp file. The program will then run and prompt the user for input which can be typed in the terminal, and additional instructions for each of the functions will also be presented to the user when the option is chosen.
+There are README files in each of the Project1 and Project2 folders with instructions for each of the projects
