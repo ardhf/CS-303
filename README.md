@@ -10,4 +10,4 @@ To run this program the user has to download the Queue.cpp and the Queue.h and h
 
 The following screenshots are from the programs.
 
-![alt text](https://github.com/ardhf/Assignment3/blob/main/S1.png?raw=true)
+![alt text](https://github.com/ardhf/Assignment3/blob/main/s1.png?raw=true)
